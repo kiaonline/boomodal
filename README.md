@@ -1,2 +1,0 @@
-# boomodal
-Bootstrap dynamic modal
