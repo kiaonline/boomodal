@@ -55,7 +55,7 @@
         
         options.backdrop = options.backdrop ? "static" : false;
 
-        var modalId = "dlg-modal-"  + parseInt(Math.random() * 9999);
+        var modalId     = "dlg-modal-"  + parseInt(Math.random() * 9999);
 
 
         var dialog      = $(templates.dialog).clone();
